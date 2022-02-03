@@ -44,6 +44,11 @@
     width: 99.2%;
   }
 
+  .image-caption {
+    color: rgb(88, 88, 88);
+    font-style: italic;
+  }
+
   h2 {
     margin-bottom: 2%
   }
@@ -51,6 +56,10 @@
   p {
     margin-bottom: 3%;
     font-size: 1.2em;
+  }
+
+  p span {
+    font-style: italic;
   }
 
   @media only screen and (max-width: 760px) {
